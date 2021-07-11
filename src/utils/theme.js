@@ -1,6 +1,7 @@
 const colors = {
   black: '#000000',
   white: '#FFFFFF',
+  lightGray: '#F5F5F5',
 };
 
 const randomColors = {
